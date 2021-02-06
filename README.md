@@ -30,3 +30,4 @@ Goal is to understand the challenges involved in piecing together a series of mo
 		jupyter notebook dog_app.ipynb
 	```
 6. You can find the project proposal and the final report as .pdf files namely proposal.pdf and report.pdf in this repository.
+7. Additional images which are not provided by Udacity are available in the added_images directory.
